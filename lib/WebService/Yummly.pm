@@ -55,7 +55,7 @@ sub get_recipe {
 
 1;
 
-=pod 
+=pod
 
 =head1 NAME
 
@@ -107,13 +107,13 @@ Return a JSON data structure with recipe information.
 
 =head2 BUGS
 
-Please report any bugs by email to C<bug-webservice-yummly at rt.cpan.org>, or 
-through the web interface at L<http://rt.cpan.org/Public/Dist/Display.html?Name=WebService-Yummly>. 
+Please report any bugs by email to C<bug-webservice-yummly at rt.cpan.org>, or
+through the web interface at L<http://rt.cpan.org/Public/Dist/Display.html?Name=WebService-Yummly>.
 You will be automatically notified of any progress on the request by the system.
 
 =head2 SOURCE CODE
 
-This is open source software. The code repository is available for public 
+This is open source software. The code repository is available for public
 review and contribution under the terms of the license.
 
 L<https://github.com/davehodg/Webservice-Yummly/>
