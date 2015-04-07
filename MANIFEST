@@ -1,5 +1,7 @@
+.travis.yml
 Changelog
 etc/get_yummly.pl
+lib/WebService/.#Yummly.pm
 lib/WebService/Yummly.pm
 Makefile.PL
 MANIFEST			This list of files
