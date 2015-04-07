@@ -13,3 +13,4 @@ pm_to_blib
 ^MYMETA
 dist.ini
 ^#.*#$
+cover_db
